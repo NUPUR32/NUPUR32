@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nupur Joon</h1>
+<h1 align="center">Hey!👋, I'm Nupur </h1>
 
 <h3 align="center">
 AI & Machine Learning Engineer | Full Stack Developer | Open Source Contributor
