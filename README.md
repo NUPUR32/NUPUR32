@@ -111,10 +111,10 @@ GitHub:
 https://github.com/NUPUR32
 
 LinkedIn:
-(Add your LinkedIn URL)
+in/nupur-na-a5731a322
 
 Email:
-(Add your Email)
+nupurjoon712@gmail.com
 
 ---
 
